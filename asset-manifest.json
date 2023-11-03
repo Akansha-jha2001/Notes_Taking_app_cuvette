@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notes_Taking_app_cuvette/static/css/main.90a1e657.css",
+    "main.js": "/Notes_Taking_app_cuvette/static/js/main.abc48f90.js",
+    "static/js/787.0a88745a.chunk.js": "/Notes_Taking_app_cuvette/static/js/787.0a88745a.chunk.js",
+    "index.html": "/Notes_Taking_app_cuvette/index.html",
+    "main.90a1e657.css.map": "/Notes_Taking_app_cuvette/static/css/main.90a1e657.css.map",
+    "main.abc48f90.js.map": "/Notes_Taking_app_cuvette/static/js/main.abc48f90.js.map",
+    "787.0a88745a.chunk.js.map": "/Notes_Taking_app_cuvette/static/js/787.0a88745a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a1e657.css",
+    "static/js/main.abc48f90.js"
+  ]
+}
